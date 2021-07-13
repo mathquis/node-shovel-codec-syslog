@@ -1,0 +1,24 @@
+{
+  "name": "shovel-codec-syslog",
+  "version": "1.0.0",
+  "description": "@mathquis/node-shovel Syslog codec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathquis/node-shovel-codec-syslog.git"
+  },
+  "keywords": [
+    "shovel",
+    "syslog",
+    "codec"
+  ],
+  "author": "Mathieu \"Fastjack\" Quisefit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathquis/node-shovel-codec-syslog/issues"
+  },
+  "homepage": "https://github.com/mathquis/node-shovel-codec-syslog#readme"
+}
